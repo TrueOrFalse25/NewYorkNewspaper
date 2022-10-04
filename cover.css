@@ -1,0 +1,29 @@
+.cover {
+  width: 350px;
+  height: 500px;
+  background-color: rgb(172, 165, 165);
+  text-align: center;
+  /* finish your styling of the cover div here! */
+}
+
+#title {
+  padding-top: 40px;
+  padding-right: 5px;
+  font-size: 55px;
+  font-family: "Source Code Pro";
+  margin-top: 0px;
+  margin-bottom: 10px;
+}
+
+#subtitle {
+  color: rgba(0, 255, 255, 0.651);
+  font-size: 20px;
+  font-family: "Roboto";
+  padding-left: 60px;
+  margin-top: 0px;
+  margin-bottom: 65 px;
+}
+
+#cover_image {
+  width: 250px;
+}
