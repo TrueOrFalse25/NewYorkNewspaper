@@ -1,24 +1,50 @@
 .page {
-  width:
-  height:
+    color: #474e53;
+    background-color: #D3D0CB;  
+    font-family: 'Oswald', sans-serif;  
+    width: 650px;
+    height: 900px;
+    font-size: 25px;
+    padding: 30px;
 }
 
 #article_title {
-
+    color: #2e0812;  
+    font-family: 'Anton', sans-serif;
+    letter-spacing: 10px;
+    font-size: 50px;
+    margin-top: 0px;
+    margin-bottom: 30px;
+    margin-left: 10px;
 }
 
-#intro {
-
+#intro { 
+    color: #792730;  
+    line-height: 80px;
+    margin-left: 10px;
 }
 
-.question{
-
+.question {
+    font-family: 'Railway', sans-serif;
+    font-weight: bold;
+    margin-bottom: 5px;
 }
 
-.answer{
-
+.answer {
+    font-family: 'Railway', sans-serif;
+    font-weight: 500;
+    margin-top: 0px;
 }
 
 #block_quote {
-
+    width: 400px;
+    color: #8C2F39;
+    padding: 10px;
+    border-left: 1px solid black;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-right: 0px;
+    margin-left: 150px;
+    font-size: 30px;
+    font-weight: bold;
 }
